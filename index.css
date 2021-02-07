@@ -18,8 +18,8 @@ main {
 
 footer {
   background-color: #DAEEEF;
-  height: 100%;
-  width: 80px;
+  height: 80px;
+  width: 100%;
 }
 
 .flex-container {
